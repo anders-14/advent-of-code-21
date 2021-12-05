@@ -8,4 +8,5 @@ The solutions aren't any good, but they work, and thats good enough...
 * Day 1 - Python
 * Day 2 - Go
 * Day 3 - JavaScript
+* Day 4 - Python
 
