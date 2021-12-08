@@ -12,4 +12,5 @@ The solutions aren't any good, but they work, and thats good enough...
 * Day 5 - C
 * Day 6 - JavaScript
 * Day 7 - Python
+* Day 8 - Python
 
